@@ -21,7 +21,7 @@ and a very compact screen size of 11".
   
 - mupdf: fast and easy PDF/EPUB viewer
   
-- neofetch: just for aestestich photes :)
+- neofetch: just for aesthetic photos :)
 
 ## Usage
 To be finished.... 
