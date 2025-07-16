@@ -58,6 +58,6 @@ Note that the SWAP partition is extra memory when your physical RAM is full. Itâ
 ## Suggested resources
 Below useful links I used during the process and highly suggest to have a look at them.
 
-- - [Void Linux ISO Download (i686)](https://voidlinux.org/download/#i686)
-- - [Void Linux Documentation](https://docs.voidlinux.org/installation/live-images/guide.html)
-- - [i3 User Guide](https://i3wm.org/docs/userguide.html)
+- [Void Linux ISO Download (i686)](https://voidlinux.org/download/#i686)
+- [Void Linux Documentation](https://docs.voidlinux.org/installation/live-images/guide.html)
+- [i3 User Guide](https://i3wm.org/docs/userguide.html)
