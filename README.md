@@ -55,6 +55,10 @@ swapon /dev/sda3                 # Enable swap
 ```
 
 Note that the SWAP partition is extra memory when your physical RAM is full. It’s slower, because it’s on disk, but helps prevent crashes or freezing.
+
+Please follow [Void Installation Guide](https://docs.voidlinux.org/installation/live-images/guide.html) for complete and formal installation guidelines.
+
+
 ## Suggested resources
 Below useful links I used during the process and highly suggest to have a look at them.
 
